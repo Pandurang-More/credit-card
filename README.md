@@ -27,7 +27,8 @@ credit-card-ui/
 ├── index.html
 ├── style.css
 ├── images/
-│ ├── bg.png
-│ ├── chip.png
-│ └── logo.png
+│   ├── bg.png        # Background image for the card
+│   ├── chip.png      # Chip icon image
+│   └── logo.png      # Brand logo (e.g., Mastercard)
+
 
