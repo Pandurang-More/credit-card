@@ -1,35 +1,33 @@
 # 💳 Credit Card UI Design
 
-This project showcases a modern **Credit Card UI** built using **HTML** and **CSS**. It demonstrates clean layout structuring, responsive design, and a visually appealing component often used in payment forms or fintech apps.
+This is a sleek and responsive **Credit Card UI** created using **HTML** and **CSS**. It visually mimics a real-world credit card, complete with a background pattern, chip icon, brand logo, and card details.
 
 ---
 
-## 🔧 Tech Used
+## 🚀 Live Preview
 
-- ✅ HTML5
-- ✅ CSS3 (Flexbox / Grid)
-- ✅ Responsive Design Principles
+🔗 https://effulgent-praline-a33d3c.netlify.app/
 
 ---
 
-## ✨ Features
+## 🛠️ Technologies Used
 
-- Sleek credit card design
-- Custom fonts and styling
-- Hover/transition effects (if added)
-- Easily customizable for use in payment forms or dashboards
-
----
-
-## 📸 Preview
-
-![Credit Card Preview](./preview.png)  
-*(Add a screenshot of your UI and name it `preview.png` or adjust accordingly)*
+- **HTML5**
+- **CSS3**
+- **Google Fonts – Poppins**
+- **Responsive layout with Flexbox**
+- **Images for chip and logo**
 
 ---
 
-## 🚀 How to Use
+## 📁 Project Structure
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-ui.git
+credit-card-ui/
+│
+├── index.html
+├── style.css
+├── images/
+│ ├── bg.png
+│ ├── chip.png
+│ └── logo.png
+
