@@ -22,6 +22,7 @@ This is a sleek and responsive **Credit Card UI** created using **HTML** and **C
 
 ## 📁 Project Structure
 
+```
 credit-card-ui/
 │
 ├── index.html
@@ -30,5 +31,7 @@ credit-card-ui/
 │   ├── bg.png        # Background image for the card
 │   ├── chip.png      # Chip icon image
 │   └── logo.png      # Brand logo (e.g., Mastercard)
+```
+
 
 
